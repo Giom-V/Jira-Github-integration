@@ -1,6 +1,6 @@
-# Jira-tests
+# Jira-GitHub integration
 
-This repository is used to test Github integration and interraction with Jira Cloud, and later on with Jenkins
+This repository is used to test and document the cababilities of the [official integration](https://github.com/integrations/jira) between Github integration and Jira Cloud, and later on with Jenkins
 
 ## What works (or not)
 
