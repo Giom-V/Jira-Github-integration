@@ -30,3 +30,4 @@ This repository is used to test Github integration and interraction with Jira Cl
 
 #### Doesn't work
 * A pull request with the issue id in its description is NOT automatically linked
+* "merge pull request" commits are following the same rules as any commit and are not atomatically linked when the branch (in the case it's linkely taht the issue id was in the name that is by default in the commit) or the pull request
