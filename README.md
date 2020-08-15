@@ -26,6 +26,7 @@ This repository is used to test Github integration and interraction with Jira Cl
 #### Works
 * Pull requests from a linked branch are also automatically linked with the issue
 * A pull request with the issue id in its title is automatically linked (it can be edited to link or unlink it)
+* The status of the pull requests can be seen from Jira
 
 #### Doesn't work
 * A pull request with the issue id in its description is NOT automatically linked
