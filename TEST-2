@@ -1,2 +1,2 @@
 This file is just here to test [TEST-2]
-And let's try if a commit has no reference to the issue
+And let's try if a commit has no reference to the issue (doesn't link automatically, but that not much of an issue since the branch is linked and the pull request will be)
